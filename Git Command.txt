@@ -1,12 +1,12 @@
-1. git add -A/--all (for all file)
-2. git add . (for only current folder)
-3. git add * (without delete file) 
-4. git *.txt (for all txt file)	 	
-5. git reset
-6. git status
-7. ls
-8. touch file.extention
-9. mkdir foldername
+1.  git add -A/--all (for all file)
+2.  git add . (for only current folder)
+3.  git add * (without delete file) 
+4.  git *.txt (for all txt file)	 	
+5.  git reset
+6.  git status
+7.  ls
+8.  touch file.extention
+9.  mkdir foldername
 10. clear
 11. pwd
 12. Git Commit -m "comment" (for commit)
