@@ -1,25 +1,25 @@
 1. git add -A/--all (for all file)
 2. git add . (for only current folder)
-   git add * (without delete file) 
-   git *.txt (for all txt file)	 	
-3. git reset
-4. git status
-5. ls
-6. touch file.extention
-7. mkdir foldername
-8. clear
-9. pwd
-10. Git Commit -m "comment" (for commit)
-11. git reset HEAD~ (for reset after commit)
-12. gti reset reset --hard (delete file will come with change) 
-13. git rm file.extention ( delete with stage updated) 
-14. git rm file.extention -f (forcely delete file which is modified)
-15. git rm --cached file.extention( file will stay in folder but stage will be update) 
-16. git rm -r folderName ( delete with sub folder file) 
-17. git branch (show number of branches) 
-18. git checkout branchName (switch other branch)
-19. git merge master -m "merging on development with master"
-20. git merge development -m "merging on master with development"
-21. git push origin master (upload local changes to github)
-22. git fetch  ( download from remote to local)
-23  git pull  (download and merge at a time)
+3. git add * (without delete file) 
+4. git *.txt (for all txt file)	 	
+5. git reset
+6. git status
+7. ls
+8. touch file.extention
+9. mkdir foldername
+10. clear
+11. pwd
+12. Git Commit -m "comment" (for commit)
+12. git reset HEAD~ (for reset after commit)
+14. gti reset reset --hard (delete file will come with change) 
+15. git rm file.extention ( delete with stage updated) 
+16. git rm file.extention -f (forcely delete file which is modified)
+17. git rm --cached file.extention( file will stay in folder but stage will be update) 
+18. git rm -r folderName ( delete with sub folder file) 
+19. git branch (show number of branches) 
+20. git checkout branchName (switch other branch)
+21. git merge master -m "merging on development with master"
+22. git merge development -m "merging on master with development"
+23. git push origin master (upload local changes to github)
+24. git fetch  ( download from remote to local)
+25  git pull  (download and merge at a time)
